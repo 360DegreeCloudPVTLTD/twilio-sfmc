@@ -25,18 +25,18 @@
             "verb": "POST",
             "body": "",
             "format": "json",
-            "useJwt": true,
+            "useJwt": false,
             "timeout": 2000
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "96429b8f-742f-4b2a-80b4-1678130af54b",
+      "applicationExtensionKey": "f73872f0-cfd5-4ac0-a37c-79f6d1b8b26a",//"96429b8f-742f-4b2a-80b4-1678130af54b",
        "save": {
            "url": "https://sms360.herokuapp.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
-            "useJwt": true,
+            "useJwt": false,
             "timeout": 2000
        },
        "publish": {
@@ -44,7 +44,7 @@
             "verb": "POST",
             "body": "",
             "format": "json",
-            "useJwt": true,
+            "useJwt": false,
             "timeout": 2000
        },
        "validate": {
@@ -52,7 +52,7 @@
             "verb": "POST",
             "body": "",
             "format": "json",
-            "useJwt": true,
+            "useJwt": false,
             "timeout": 2000
        },
        "stop": {
@@ -60,7 +60,7 @@
             "verb": "POST",
             "body": "",
             "format": "json",
-            "useJwt": true,
+            "useJwt": false,
             "timeout": 2000
        }
     },
